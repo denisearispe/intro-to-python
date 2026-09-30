@@ -1,2 +1,3 @@
 # intro-to-python
-sample repo
+
+hello world. this is my first repo
